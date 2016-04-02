@@ -1,0 +1,2 @@
+# SOScomp
+Pomoč uporabnikom
